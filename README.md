@@ -11,7 +11,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [New Semantice HTML i've used](#New Semantice HTML i've used)
+  - [New Semantice HTML i've used](#New-Semantice-HTML-i've-used)
   
 
 ## Overview
