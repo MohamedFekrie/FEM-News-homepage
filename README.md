@@ -7,16 +7,12 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
+  - [New Semantice HTML i've used](#New Semantice HTML i've used)
+  
 
 ## Overview
 This challenge is from Frontend Mentor, it takes 6 hours to complete it.
@@ -59,7 +55,6 @@ Users should be able to:
 
 ### Continued development
 "Some concepts maybe i'll learn and use it next project"
-
 - SASS
 - More about Grid
 
