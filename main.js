@@ -20,9 +20,8 @@ closeMenu.addEventListener('click', () => {
 })
 window.onresize = (e) => {
     if (innerWidth < 991) {
-        mainImg.src = '/assets/images/image-web-3-mobile.jpg'
-        console.log('done')
+        mainImg.src = './assets/images/image-web-3-mobile.jpg'
     } else {
-        mainImg.src = '/assets/images/image-web-3-desktop.jpg'
+        mainImg.src = './assets/images/image-web-3-desktop.jpg'
     }
 }
