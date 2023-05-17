@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-#### New Semantice HTML i've used
+### New Semantice HTML i've used
 
 - figure => is for wrapping my image content around it.
 - figcaption => is to caption my image.
